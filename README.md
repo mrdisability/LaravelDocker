@@ -1,5 +1,6 @@
 # LaravelDocker
 
 * Docker
-* MySQL
+* MySQL (Docker)
+* MySQL Workbench
 
